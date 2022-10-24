@@ -1,10 +1,8 @@
-Copyright 2022, Dimitriou Eleftherios, All rights reserved.
-
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
 
-// ---------- Dimitriou Eleftherios - AEM : 4399 ---------- //
+// ---------- Dimitriou Eleftherios ---------- //
 
 // ---------- Astrodynamics : Project 2 ---------- //
 
