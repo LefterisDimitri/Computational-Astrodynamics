@@ -4,8 +4,6 @@ Copyright 2022, Dimitriou Eleftherios, All rights reserved.
 #include <math.h>
 #include <stdlib.h>
 
-// ---------- Dimitriou Eleftherios - AEM : 4399 ---------- //
-
 // ---------- Astrodynamics : Project 2 ---------- //
 
 double GM_E = 398600.433;   //  km^3/s^2
